@@ -18377,9 +18377,9 @@
 0.0.0.0 skadsdk.appsflyersdk.com
 
 
-
-=============== TITLE HOTSVN: hostsVN =====================
-===========================================================
+!===========================================================
+!                      TITLE HOTSVN
+!===========================================================
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
 ! Last modified: 23 Apr 2026 14:57 UTC+7
@@ -26588,10 +26588,9 @@
 ||appsflyersdk.com^
 @@||app.appsflyer.com^
 
-
-! =================== TITLE HOTSVN ==========================
-
-
+!=======================================
+!                  TITLE HOTSVN 
+!=======================================
 # Title: hostsVN
 # Last modified: 23 Apr 2026 14:57 UTC+7
 # Version: 2604231457
@@ -26601,9 +26600,7 @@
 # GitHub: https://github.com/bigdargon/hostsVN
 # Report issues: https://github.com/bigdargon/hostsVN/issues
 # Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
-#
-# =====================================================
-#
+
 # --- Group block ---
 #[apple.com]
 0.0.0.0 api-adservices.apple.com
